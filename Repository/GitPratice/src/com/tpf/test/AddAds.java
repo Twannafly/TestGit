@@ -3,7 +3,7 @@ package com.tpf.test;
 public class AddAds {
 	public static void main(String[] args) {
 		System.out.println("AddAds");
-		System.out.println("AddAds2");
+		System.out.println("AddAds");
 	}
 
 }
